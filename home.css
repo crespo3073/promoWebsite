@@ -1,0 +1,21 @@
+/*Everything in here is a Comment Code */
+
+body
+{
+   /*background-color: darkred;*/
+    background-image: url("img/yoshi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+color: darksalmon;
+}
+
+/*Style a specific section of the page that has an ID= using the hastag # */
+#textEnhance
+{
+color: black;
+    background-image: linear-gradient(deeppink,lightpink,hotpink);
+}
